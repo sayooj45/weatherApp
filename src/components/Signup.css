@@ -1,0 +1,12 @@
+.signup{
+    background-image: url('https://i0.wp.com/www.flutterbeads.com/wp-content/uploads/2021/11/set-background-image-flutter-hero.jpeg?fit=1920%2C1280&ssl=1');
+    height: 100vh;
+    display: flex;
+}
+.signup_form{
+    margin: 100px auto;
+    box-shadow: 1px 2px 1px 2px;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 10px;
+}

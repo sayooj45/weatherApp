@@ -1,0 +1,29 @@
+.main{
+    
+    background-image: url('https://www.findingtheuniverse.com/wp-content/uploads/2017/01/Blue2Bhour2BFinland_by_Laurence2BNorah.jpg');
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.warm{
+    background-image: url('https://static.toiimg.com/img/66084423/Master.jpg');
+    height: 100vh;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.card{
+    margin: auto;
+    width: fit-content;
+    background-color: rgba(210, 241, 249, 0.5);
+}
+.cname{
+    font-size: 50px;
+}
+.temp{
+    font-size: 70px;
+}
+.condition{
+    
+    font-size: 50px;
+}
